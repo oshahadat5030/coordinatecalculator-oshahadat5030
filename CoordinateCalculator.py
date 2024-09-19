@@ -20,7 +20,7 @@ ss = int(x[4:])        # Last two characters are seconds
 decimal_degrees = dd + (mm / 60) + (ss / 3600)
 
 #  Round the result to two decimal places
-decimal_degrees_rounded = round(decimal_degrees, 2)
+decimal_degrees_rounded = round(decimal_degrees, 3)
 
 # Print the final result
 print(f"Final result is: {decimal_degrees_rounded} degrees")
