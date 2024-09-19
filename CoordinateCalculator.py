@@ -12,7 +12,7 @@ x= input('Please enter a coordinate value in DDMMSS format:' )
 print(f"Data type of x: {type(x)}")
 print(f"Entered coordinate: {x}")
 
-dd = int(x[:2])        # First two characters are degrees
+dd = int(x[:2])        # First two character are degrees
 mm = int(x[2:4])       # Next two characters are minutes
 ss = int(x[4:])        # Last two characters are seconds
 
