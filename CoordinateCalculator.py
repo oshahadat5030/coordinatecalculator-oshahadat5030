@@ -1,8 +1,8 @@
 ##-------------------------------------------------------------------------------------
 ## Name:  CoordinateCalculator.py
 ## Description:  Converts geographic coordinates in DDMMSS format to DD
-## Created:  9/24/2024
-## Author:  SShahadat Hossain
+## Created:  9/25/2024
+## Author:  Shahadat Hossain
 ##-------------------------------------------------------------------------------------
 
 #Step 1 - Use the Python input function to prompt a user to enter a geographic coordinate in DDMMSS format (e.g., 391120).
