@@ -1,7 +1,7 @@
 ##-------------------------------------------------------------------------------------
 ## Name:  CoordinateCalculator.py
 ## Description:  Converts geographic coordinates in DDMMSS format to DD
-## Created:  9/24/2024
+## Created:  11/20/2024
 ## Author:  Shahadat Hossain
 ##-------------------------------------------------------------------------------------
 
